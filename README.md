@@ -1,3 +1,3 @@
-# symbolic-programming
+# Symbolic Programming
 
 All assignments for module: CSU34011
